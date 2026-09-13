@@ -3,6 +3,10 @@
 Exploratory Data Analysis (EDA) on a banking dataset to understand customer 
 profiles and behavioral patterns related to personal loan acceptance.
 
+### Version
+*eng: English
+*esp: Spanish
+
 ## Problem Statement
 
 Banks need to identify which customer segments are most likely to accept personal 
