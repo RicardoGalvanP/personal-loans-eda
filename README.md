@@ -3,7 +3,8 @@
 Exploratory Data Analysis (EDA) on a banking dataset to understand customer 
 profiles and behavioral patterns related to personal loan acceptance.
 
-## Version
+### Version
+
 *eng: English
 *esp: Spanish
 
