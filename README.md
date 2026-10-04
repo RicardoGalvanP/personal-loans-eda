@@ -5,7 +5,7 @@ profiles and behavioral patterns related to personal loan acceptance.
 
 ### Version
 
-*eng: English
+*en: English
 
 *esp: Spanish
 
