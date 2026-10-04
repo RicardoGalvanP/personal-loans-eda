@@ -7,7 +7,7 @@ profiles and behavioral patterns related to personal loan acceptance.
 
 *en: English
 
-*esp: Spanish
+*es: Spanish
 
 ## Problem Statement
 
